@@ -1,0 +1,2 @@
+- Correção de semântica no código HTML;
+- Adicionar atributos de acessibilidade;
